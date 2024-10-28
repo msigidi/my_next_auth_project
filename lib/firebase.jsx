@@ -3,13 +3,12 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAsmdCIyVow2DEeKGfXJcyH8F3H5vsdgmw",
-  authDomain: "mycode-challenge.firebaseapp.com",
-  projectId: "mycode-challenge",
-  storageBucket: "mycode-challenge.appspot.com",
-  messagingSenderId: "982883470532",
-  appId: "1:982883470532:web:c38042a070a2cfb83f0d91",
-  measurementId: "G-0GSED5YVQN"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
 };
 
 // Initialize Firebase
