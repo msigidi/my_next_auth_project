@@ -37,5 +37,11 @@ To get started with this project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/msigidi/my_next_auth_project.git
+   cd my_next_auth_project
+2. **Install Dependencies**
+   ```bash
+   npm install
+3. **Start the Development Server**
+   ```bash
+   npm run dev
