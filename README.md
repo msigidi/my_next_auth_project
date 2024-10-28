@@ -25,7 +25,7 @@ A responsive analytics dashboard built with React, Firebase, and Victory Charts.
 ## Technologies Used
 
 - **Frontend**: 
-  - React
+  - Nextjs
   - Tailwind CSS
   - Victory Charts
 - **Backend**: 
